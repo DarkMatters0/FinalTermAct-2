@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
 mysqlclient = "*"
 scikit-learn = "*"
 pymysql = "*"
 numpy = "*"
 pandas = "*"
+django = "*"
 
 [dev-packages]
 
